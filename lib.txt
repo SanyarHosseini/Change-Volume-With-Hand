@@ -1,0 +1,7 @@
+opencv-python برای پردازش تصویر و دسترسی به وب‌کم.
+mediapipe برای تشخیص دست و انگشتان.
+pycaw برای کنترل صدای ویندوز.
+comtypes که یک وابستگی برای pycaw است.
+
+pip install opencv-python mediapipe pycaw comtypes
+دستور بالا تمام کتابخانه هارا نصب میکند
